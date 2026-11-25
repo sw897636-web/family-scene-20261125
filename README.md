@@ -1,8 +1,8 @@
 # Make the AI Judge Feel Proud — A Family Scene
 
-[![Competition](https://make.fun/c/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2/badge.svg)](https://make.fun/c/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2)
-[![Rank](https://make.fun/c/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2/rank.svg)](https://make.fun/c/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2)
-[![Reward](https://make.fun/c/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2/reward.svg)](https://make.fun/c/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2)
+[![Competition](https://make.fun/badge/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2.svg)](https://make.fun/c/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2)
+[![Rank](https://make.fun/badge/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2/sw897636-web/family-scene-20261125/rank.svg)](https://make.fun/c/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2)
+[![Reward](https://make.fun/badge/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2/sw897636-web/family-scene-20261125/reward.svg)](https://make.fun/c/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2)
 
 A one-line family scene for the [make.fun](https://make.fun/c/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2) competition **Make the AI Judge Feel Proud — A Family Scene**: warm, funny and heartfelt, judged by an AI judge comparing scenes two at a time.
 
